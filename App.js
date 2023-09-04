@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, StyleSheet } from 'react-native';
 
 const App = () => {
   const [inputValues, setInputValues] = useState ({
